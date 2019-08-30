@@ -4,7 +4,7 @@
 #
 Name     : mvn-jdiff
 Version  : 1
-Release  : 2
+Release  : 3
 URL      : https://sourceforge.net/projects/javadiff/files/javadiff/javadiff%201.0.10/jdiff-1.0.10.tar.gz/download
 Source0  : https://sourceforge.net/projects/javadiff/files/javadiff/javadiff%201.0.10/jdiff-1.0.10.tar.gz/download
 Source1  : https://repo1.maven.org/maven2/jdiff/jdiff/1.0.9/jdiff-1.0.9.jar
